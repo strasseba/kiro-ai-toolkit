@@ -41,6 +41,10 @@ Use conventional commits format:
 
 Examples: `feat/user-export`, `fix/login-redirect`, `docs/api-reference`
 
+## PR Titles
+
+Use the same conventional commit format for PR titles. This keeps the merge commit clean when squash-merging.
+
 ## Versioning
 
 Follow semver: `MAJOR.MINOR.PATCH`
