@@ -25,6 +25,8 @@ Use conventional commits format:
 | `refactor` | Code restructuring without behavior change |
 | `test` | Adding or updating tests |
 | `chore` | Build, tooling, dependency updates |
+| `ci` | CI/CD pipeline changes |
+| `perf` | Performance improvements |
 
 ### Rules
 
